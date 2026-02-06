@@ -1,16 +1,23 @@
-## Hi there 👋
+Welcome to my GitHub!  
+This repository is a space where I document my progress as I learn data analytics.
 
-<!--
-**suwetha0802/suwetha0802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔍 About Me
+- 🎓 Beginner in Data Analytics
+- 🐍 Currently learning Python, SQL, and data visualization
+- 📊 Interested in data storytelling and dashboards
 
-Here are some ideas to get you started:
+## 📚 Learning Goals
+- Understand the basics of data cleaning and preparation
+- Practice SQL queries for data analysis
+- Explore visualization tools like Power BI, Tableau, and Matplotlib
+- Build confidence by sharing small exercises and notes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🗂 Repository Plan
+- `notes/` → My study notes and summaries
+- `practice/` → Small code snippets and exercises
+- `resources/` → Helpful links, tutorials, and references
+
+## 🤝 Connect
+-GitHub:
+- LinkedIn:www.linkedin.com/in/suwetha0802 
+- Email:suwetha0802@gmail.com
