@@ -20,4 +20,4 @@ This repository is a space where I document my progress as I learn data analytic
 ## 🤝 Connect
 - GitHub:https://github.com/suwetha0802
 - LinkedIn:www.linkedin.com/in/suwetha0802 
-- Email:suwetha0802@gmail.com
+- Email:suwethasureshss@gmail.com
